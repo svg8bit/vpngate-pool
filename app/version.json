@@ -1,11 +1,11 @@
 {
-  "build": 4,
-  "version": "3.1 · 11.11.2026",
-  "size": 9840128,
-  "sha256": "7223bf005656358729c109d45c1e0a35c01b8ea2bbb36f4f0e781ad4d629d889",
+  "build": 5,
+  "version": "3.2 · 11.11.2026",
+  "size": 14309888,
+  "sha256": "b11edc5c71254749a7dbbda3c712cc02e695445887ff3fed87899502954d81e1",
   "urls": [
-    "https://github.com/svg8bit/vpngate-pool/releases/download/v3.1/VPN-odnoy-knopkoy.exe"
+    "https://github.com/svg8bit/vpngate-pool/releases/download/v3.2/VPN-odnoy-knopkoy.exe"
   ],
-  "notes": "Короче подпись внизу окна, окно не растягивается",
-  "sig": "Vp+6vJdkNE88LBEydotJdR8LvkhoHiDs7lC2tj+W4bBVEhU+6uS2NSB8+MX+41IdOt8KFmZ4eYqwlKF00RzDDA=="
+  "notes": "Внутри программы теперь есть название, версия и издатель, чтобы Защитник Windows не принимал её за вирус",
+  "sig": "3nQKF1+1FZdERhZ6N4pzLjrBCvkxtD97C71GbmD4bCbeO3FGtBcu8QfilAP54/w3sEhG8d81HoEVUUSqghMoAg=="
 }
