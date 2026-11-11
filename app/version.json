@@ -1,11 +1,11 @@
 {
-  "build": 3,
-  "version": "3.0 · 11.11.2026",
+  "build": 4,
+  "version": "3.1 · 11.11.2026",
   "size": 9840128,
-  "sha256": "827be6310c2eac0397757bc549a71339c73bc23e265cd2b41c42b79795312afa",
+  "sha256": "7223bf005656358729c109d45c1e0a35c01b8ea2bbb36f4f0e781ad4d629d889",
   "urls": [
-    "https://github.com/svg8bit/vpngate-pool/releases/download/v3.0/VPN-odnoy-knopkoy.exe"
+    "https://github.com/svg8bit/vpngate-pool/releases/download/v3.1/VPN-odnoy-knopkoy.exe"
   ],
-  "notes": "Выбор страны, кнопка «Сменить сервер», программа обновляется сама",
-  "sig": "3sBB7LgC1/eHGzD/zYwS4ooRsXP/9btQmd8eMgeMt2I8Sb/1oWzXwtY1gV/OMFZYDyqlYmkc4S+sDAsywsxTAg=="
+  "notes": "Короче подпись внизу окна, окно не растягивается",
+  "sig": "Vp+6vJdkNE88LBEydotJdR8LvkhoHiDs7lC2tj+W4bBVEhU+6uS2NSB8+MX+41IdOt8KFmZ4eYqwlKF00RzDDA=="
 }
